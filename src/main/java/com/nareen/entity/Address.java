@@ -1,7 +1,7 @@
 package com.nareen.entity;
 
 public class Address {
-	
+	//comment added
 	String address;
 
 	public Address() {
